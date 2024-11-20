@@ -1,5 +1,5 @@
 # dependency-validator
- A small C# console app to validate dependencies
+ A small C# console app to validate package dependencies
 
 DependencyValidator is a C# .NET application designed to validate package installations based on dependency requirements. Given a list of packages and dependencies in a specific format, the application checks for conflicts and circular dependencies to ensure reliable installation.
 
